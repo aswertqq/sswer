@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.fragranceoutlet.com/collections/mens");
+header("Location: https://new1ads.wixsite.com/mysite/copy-2-of-home");
 die();
 ?>
